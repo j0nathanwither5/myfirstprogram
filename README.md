@@ -1,3 +1,3 @@
 # My first program
 
-I am trrying to learn Markdown - is it worth it?
+I am trying to learn Markdown - is it worth it?
